@@ -3,7 +3,6 @@
 ###
 
 <h3 align="left">pssst.. Check out my website at <a href="http://www.oatkrs.xyz" target="_blank">oatkrs.xyz</a></h3>
-###
 
 <br clear="both">
 
@@ -90,9 +89,3 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oatkrs&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=codeSTACKr&hide_border=true&order=2" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/oatkrs/oatkrs/output/snake.svg" alt="Snake animation" />
-
-###
