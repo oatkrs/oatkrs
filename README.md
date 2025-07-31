@@ -141,12 +141,6 @@
 
 
 
-
-## Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
-
-
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=oatkrs&theme=swift&no-frame=false&no-bg=true&margin-w=4)
 
