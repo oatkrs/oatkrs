@@ -92,7 +92,7 @@
 <p align="center">
   <strong>
     Checkout my website at
-    <a href="https://oatkrs.xyz/">oatkrs.xyz</a>
+    <s><a href="https://oatkrs.xyz/">oatkrs.xyz</a></s> [NEW WEB UNDER CONSTRUCTION]
   </strong>
 </p>
 
